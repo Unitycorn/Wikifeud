@@ -9,7 +9,7 @@ https://github.com/Markus-Huckriede/
 
 https://github.com/____/ (Alline Wamsser)
 
-https://github.com/____/ (Aline Janke)
+https://github.com/aline-j/ (Aline Janke)
 
 https://github.com/____/ (Eugen Ivliev)
 
