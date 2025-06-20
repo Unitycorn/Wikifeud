@@ -1,5 +1,3 @@
-# Wikifeud
-Project for Hackathon #1 @Masterschool
 
 ## 👨‍👩‍👧‍👦 Team:
 
@@ -16,8 +14,10 @@ https://github.com/____/ (Aline Janke)
 https://github.com/____/ (Eugen Ivliev)
 
 
-## 🧠 WikiFeud – The Wikipedia Word Duel
+
+# 🧠 WikiFeud – The Wikipedia Word Duel
 WikiFeud is a fast-paced, competitive multiplayer word game in couch-coop-mode, built during a hackathon. Two players go head-to-head by naming words they think appear frequently in a randomly selected Wikipedia article. The more often a word shows up in the article, the more points it scores!
+
 
 ## 🎮 Gameplay Overview
 1. Welcome screen & game explanation
