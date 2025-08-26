@@ -7,11 +7,11 @@ https://github.com/anna-pohle/
 
 https://github.com/Markus-Huckriede/
 
-https://github.com/aline-j/ 
+https://github.com/alinejanke/
 
-https://github.com/____/ (Alline Wamsser)
+https://github.com/AllineWamsser
 
-https://github.com/____/ (Eugen Ivliev)
+https://github.com/Eugen_Ivliev
 
 
 
